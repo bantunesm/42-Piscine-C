@@ -1,0 +1,6 @@
+Credentials cache: API:28376
+        Principal: bantunes@42.US.ORG
+
+  Issued                Expires               Principal
+Aug  7 14:56:32 2017  Aug  8 00:56:32 2017  krbtgt/42.US.ORG@42.US.ORG
+Aug  7 17:01:26 2017  Aug  8 00:56:32 2017  host/vgs-fn1.42.us.org@42.US.ORG
